@@ -9,6 +9,8 @@ public class Celular_main {
 
         int option;
 
+        //TODO: DAR GIT PULL E TESTAR SISTEMA
+
             while (true) {
                 System.out.println("Digite onde você quer disparar a mensagem");
                 System.out.println("1- Enviar mensagem no SMS");
